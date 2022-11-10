@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @ddakesto
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Deepak Kulshrestha
+- 👀 I’m interested Golang and Javascript
+- 🌱 I’m currently learning Dart
+- 📫 How to reach me ddakesto@gmail.com
 
-<!---
-ddakesto/ddakesto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
